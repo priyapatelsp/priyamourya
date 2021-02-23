@@ -1,7 +1,7 @@
 
-    
+<img src="quotes.jpg">
+<br>
 I'm Priya Mourya
-
 
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning web development and machine learning
